@@ -1,3 +1,3 @@
-## Organization Migration
+## Repository Migration
 
-Organization and repositories were migrated to: [erc-fhv](https://github.com/organizations/erc-fhv)
+Repositories of the organization were migrated to: [github.com/erc-fhv](https://github.com/erc-fhv)
